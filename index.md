@@ -24,9 +24,7 @@ Since the experimental setup with a sound source in clean environments is relati
 
 <style>
   table {
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     border: 0px solid black; /* 可选，给表格添加边框 */
   }
 </style>
