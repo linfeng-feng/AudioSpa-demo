@@ -49,7 +49,7 @@ Since the experimental setup with a sound source in clean environments is relati
 </table>
 
 ## A sound source in noisy environments
-The baseline is simulated using HRIR. Existing methods typically place all sound events in a single direction. By using text captions, AudioSpa can control the direction of specific sound event.
+The baseline is simulated using HRIR. Previous methods typically place all sound events in a single direction. By using text captions, AudioSpa can control the direction of specific sound event.
 
 <table>
   <thead>
