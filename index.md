@@ -77,7 +77,7 @@ The baseline is simulated using HRIR. Previous methods typically place all sound
       <td><html><audio controls style="width: 200px;"><source src="1_noisy\binaural_h\271.wav"></audio></html></td>
     </tr>
     <tr>
-      <td colspan="3">bass echoes from the 130 degrees angle.</td>
+      <td colspan="3">Bass echoes from the 130 degrees angle.</td>
     </tr>
     <tr>
       <td><html><audio controls style="width: 200px;"><source src="1_noisy\mono\3990.wav"></audio></html></td>
@@ -85,7 +85,7 @@ The baseline is simulated using HRIR. Previous methods typically place all sound
       <td><html><audio controls style="width: 200px;"><source src="1_noisy\binaural_h\3990.wav"></audio></html></td>
     </tr>
     <tr>
-      <td colspan="3">camera can be distinctly heard from 90 degrees.</td>
+      <td colspan="3">Camera can be distinctly heard from 90 degrees.</td>
     </tr>
     <tr>
       <td><html><audio controls style="width: 200px;"><source src="1_noisy\mono\305.wav"></audio></html></td>
@@ -109,7 +109,7 @@ The baseline is simulated using HRIR. Previous methods typically place all sound
       <td><html><audio controls style="width: 200px;"><source src="1_noisy\binaural_h\4719.wav"></audio></html></td>
     </tr>
     <tr>
-      <td colspan="3">piano emerges from 140 degrees.</td>
+      <td colspan="3">Piano emerges from 140 degrees.</td>
     </tr>
     <tr>
       <td><html><audio controls style="width: 200px;"><source src="1_noisy\mono\670.wav"></audio></html></td>
