@@ -20,7 +20,7 @@ Text-to-audio (TTA) systems have recently demonstrated strong performance in syn
 We present generation results from our proposed **AudioSpa** across multiple conditions. Fig. 1 illustrates the directional angles referenced in this work, where 0 degrees corresponds to the front of the listener, 90 degrees to the left, and so on.
 
 ## A sound source in clean environments
-Since the experimental setup with a sound source in clean environments is relatively simple, existing methods show little distinction. We only use a single sound to make comparisons. We selected a violin song, evenly segmenting the entire track and placing the segments uniformly from 0 to 360 degrees. Listeners can use this to experience the directionality described in Fig. 1. The baseline is simulated using HRIR.
+Since the experimental setup with a sound source in clean environments is relatively simple, we only use a single sound to make comparisons. We selected a violin song, evenly segmenting the entire track and placing the segments uniformly from 0 to 360 degrees. Listeners can use this to experience the directionality described in Fig. 1. The baseline is simulated using HRIR.
 
 <style>
   table {
