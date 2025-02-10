@@ -22,7 +22,16 @@ We present generation results from our proposed **AudioSpa** across multiple con
 ## A sound source in clean environments
 Since the experimental setup with a sound source in clean environments is relatively simple, existing methods show little distinction. We only use a single sound to make comparisons. We selected a violin song, evenly segmenting the entire track and placing the segments uniformly from 0 to 360 degrees. Listeners can use this to experience the directionality described in Fig. 1. The baseline is simulated using HRIR.
 
-<table style="margin: 0 auto;">
+<style>
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black; /* 可选，给表格添加边框 */
+  }
+</style>
+
+
+<table>
   <thead>
     <tr>
       <th>Mono</th>
@@ -43,7 +52,7 @@ Since the experimental setup with a sound source in clean environments is relati
 ## A sound source in noisy environments
 The baseline is simulated using HRIR. Existing methods typically place all sound events in a single direction. By using text captions, AudioSpa can control the direction of specific sound event.
 
-<table style="margin: 0 auto;">
+<table>
   <thead>
     <tr>
       <th>Mono</th>
