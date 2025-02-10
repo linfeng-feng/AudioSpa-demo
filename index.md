@@ -14,7 +14,7 @@ Text-to-audio (TTA) systems have recently demonstrated strong performance in syn
 
 <figure style="text-align: center;">
   <img src="fig\azimuth.png" alt="The figure cannot be displayed." title="The direction represented by the azimuth angle.">
-  <figcaption>Fig. 1 The direction represented by the azimuth angle.</figcaption>
+  <figcaption>Fig. 1  The direction represented by the azimuth angle.</figcaption>
 </figure>
 
 We present generation results from our proposed **AudioSpa** across multiple conditions. Fig. 1 illustrates the directional angles referenced in this work, where 0 degrees corresponds to the front of the listener, 90 degrees to the left, and so on.
