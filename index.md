@@ -26,7 +26,7 @@ Since the experimental setup with a sound source in clean environments is relati
   table {
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid black; /* 可选，给表格添加边框 */
+    border: 0px solid black; /* 可选，给表格添加边框 */
   }
 </style>
 
