@@ -1,8 +1,6 @@
 # AudioSpa: Spatializing Sound Events with Text
 
-<p align="center">
-  Linfeng Feng, Lei Zhao, Boyu Zhu, Xiao-Lei Zhang, Xuelong Li
-</p>
+Linfeng Feng, Lei Zhao, Boyu Zhu, Xiao-Lei Zhang, Xuelong Li
 
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-2402.17455-brightgreen.svg?style=flat-square)](https://arxiv.org/abs/2402.17455) -->
 
